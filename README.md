@@ -1,0 +1,6 @@
+- 👋 Hey there, I’m @SaurabhMakesApps – a tech aficionado with a knack for crafting Android apps!
+- 👀 I’m all about diving deep into the tech world, exploring the latest trends, and pushing the boundaries of what's possible on mobile.
+- 🌱 Currently immersing myself in the art of Android development, mastering Java, and gearing up to conquer the Kotlin realm!
+- 💡 I thrive on collaboration and am on the lookout for exciting Android projects that challenge the status quo and spark innovation.
+- 🚀 Let's connect on (https://www.linkedin.com/in/saurabh-sharma-63922b240/) or [Twitter](https://twitter.com/appdevmonke) and geek out over all things tech – from AI to AR, and everything in between!
+- 😄 Pronouns: He/Him
